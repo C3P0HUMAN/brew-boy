@@ -1,0 +1,63 @@
+
+
+.header{
+  height: 12vh;
+  width: 100vw;
+  background-color: grey;
+  text-align: center;
+}
+
+#brew {
+  font-size: 35px;
+  font-style: italic;
+  color: black;
+  text-shadow: 1px 1px gold;
+  position: absolute;
+  display: inline-block;
+  top: 10px;
+  margin: 0px auto;
+}
+
+
+#map {
+  height: 83vh;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+}
+
+.footer {
+  height: 5vh;
+  width: 100vw;
+  background-color: grey;
+}
+
+#copy {
+  font-size: 15px;
+  color: black;
+
+}
+
+#searchbox {
+  height: 30px;
+  width: 350px;
+  position: absolute;
+  left: 20px;
+  top: 10px;
+}
+
+#distance {
+  height: 30px;
+  width: 100px;
+  position: absolute;
+  left: 20px;
+  top: 50px;
+}
+
+#beer-button {
+  height: 30px;
+  width: 100px;
+  position: absolute;
+  left: 150px;
+  top: 50px;
+}
